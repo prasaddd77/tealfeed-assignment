@@ -33,15 +33,15 @@ const Footer = () => {
         </svg>{" "}
         by{" "}
         <a
-          href="https://manuarora.in"
+          href="https://github.com/prasaddd77"
           target="__blank"
           className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
         >
-          Manu Arora.{" "}
+          Prasad Ranjane.{" "}
         </a>
         Code at{" "}
         <a
-          href="https://github.com/manuarora700/react-code-editor"
+          href="https://github.com/prasaddd77/tealfeed-assignment/tree/main"
           target="__blank"
           className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
         >
@@ -49,7 +49,7 @@ const Footer = () => {
         </a>
         Blog on{" "}
         <a
-          href="https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/"
+          href="https://github.com/prasaddd77/tealfeed-assignment/tree/main"
           target="__blank"
           className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
         >
